@@ -48,7 +48,7 @@ So, in order to do this, I will be treating `x1` as the x coordinate and `x2` as
 
 I will also need to know what a decision boundary is: a decision boundary is a line that seperates classes.
 
-See graph below:
+See means and graph below:
 ```
 w1_mean=[x=-0.43999999999999984, y=-1.749]
 w2_mean=[x=-0.543, y=-0.7620000000000001]
@@ -66,7 +66,9 @@ w1_mean=[x=-0.43999999999999984, y=-1.749, z=-0.7660000000000002]
 w2_mean=[x=-0.543, y=-0.7620000000000001, z=-0.5419999999999998]
 w3_mean=[x=3.8830000000000005, y=1.3760000000000001, z=1.5800000000000005]
 ```
+
 **Graph:**
+
 ![Question 3 Scatter Plot](q3-image.png)
 # Question 4
 4. Type in the script listed above and save it as a m.file with a unique name.  Run the file and debug any issues.

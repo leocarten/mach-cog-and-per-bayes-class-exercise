@@ -192,13 +192,13 @@ for index, point in enumerate(s):
 
 def main():
     classwork = Bayes_Class_Exercise()
-    # classwork.intro()
-    # classwork.question1()
-    # classwork.question2()
-    # classwork.question3()
-    # classwork.question4()
-    # classwork.question5()
-    # classwork.question6()
+    classwork.intro()
+    classwork.question1()
+    classwork.question2()
+    classwork.question3()
+    classwork.question4()
+    classwork.question5()
+    classwork.question6()
     classwork.question7()
 
 main()
